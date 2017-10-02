@@ -1,6 +1,6 @@
 public class Hewan{
   private boolean walking;
-  public void iswalking(){
+  public void isWalking(){
   return walking;
   }
 }
